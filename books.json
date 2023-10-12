@@ -1,0 +1,37 @@
+{
+    "0": {
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "available": "YES",
+        "pages": "336",
+        "isbn": "39876554"
+    },
+    "1": {
+        "title": "1984",
+        "author": "George Orwell",
+        "available": "YES",
+        "pages": "267",
+        "isbn": "97805472"
+    },
+    "2": {
+        "title": "One Hundred Years Of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "available": "NO",
+        "pages": "457",
+        "isbn": "978006"
+    },
+    "3": {
+        "title": "Object Oriented Programmin in JAVA",
+        "author": "Abdullah Numan Shakil",
+        "available": "YES",
+        "pages": "150",
+        "isbn": "12673211"
+    },
+    "5": {
+        "title": "c++",
+        "author": "Mehedi Hasan Shakil",
+        "available": "YES",
+        "pages": "200",
+        "isbn": "23421444"
+    }
+}
